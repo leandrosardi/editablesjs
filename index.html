@@ -33,7 +33,7 @@
 			value: 'Hola Mundo!',
 			placeholder: 'Write some text here.',
 			onsave: function() {
-				alert('Do an AJAX to save the new value here.');
+				alert('Do an AJAX to save ' + editablesJs.value( $('#myEditable') ) + ' in your database.');
 			},
 		});
 	});

@@ -51,7 +51,10 @@ Returns the version of this **Editables.Js** library.
 Turns off edition mode.
 
 ## editablesJs.switchToEdition(ctx)
-Turns ok edition mode.
+Turns on edition mode.
+
+## editablesJs.value(ctx)
+Retrieves the value of the read-only part of the widget.
 
 # Deployment 
 The **Editables.Js** requires [**JQuery 3.5.1**](https://jquery.com/download/), and the **AdminFlare 1.3.0** used privately at [**ExpandedVenture**](https://expandedventure.com/expandedventure).
