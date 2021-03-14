@@ -57,7 +57,7 @@ Turns on edition mode.
 Retrieves the value of the read-only part of the widget.
 
 # Deployment 
-The **Editables.Js** requires [**JQuery 3.5.1**](https://jquery.com/download/), and the **AdminFlare 1.3.0** used privately at [**ExpandedVenture**](https://expandedventure.com/expandedventure).
+The **Editables.Js** requires [**Commons.js 1.0.1**](https://github.com/leandrosardi/commonsjs), [**JQuery 3.5.1**](https://jquery.com/download/), and the **AdminFlare 1.3.0** used privately at [**ExpandedVenture**](https://expandedventure.com/expandedventure).
 
 All the libraries are already included in this repository.
 

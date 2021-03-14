@@ -1,22 +1,5 @@
 
 		/* 
-		 * Style for contextual menu button.
-		 *
-		*/
- 		.simple {
- 			text-decoration: none;
- 		}
-
- 		.menu-link {
- 			text-decoration: none;
- 			opacity: 0.5;
- 		}
-
- 		.menu-link:hover {
- 			opacity: 1.0;
- 		}
-
-		/* 
 		 * Style for editable fields in the pipeline edition screen.
 		 *
 		*/		
